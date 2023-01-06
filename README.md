@@ -1,4 +1,4 @@
 <<<<<<< HEAD
  # merge-together
 
-This is some text
+That is some text
