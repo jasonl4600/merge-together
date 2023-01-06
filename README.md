@@ -1,4 +1,4 @@
 <<<<<<< HEAD
  # merge-together
 
-That is some text
+That is good text
